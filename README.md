@@ -4,7 +4,7 @@
 
 - Created & tested with Python 3.12, llama-cpp-python, LangChain, 
 - FAISS, and Gradio. Works offline on Ubuntu with NVIDIA GPU (for
-- CUDA acceleration) and GGUF model
+- CUDA acceleration) and GGUF model. OCR scripts available. No djvu.
 
 #### Set up:
 
